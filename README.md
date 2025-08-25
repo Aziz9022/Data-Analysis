@@ -17,3 +17,7 @@ Outcome:
 The findings from this project highlight the key factors contributing to road accidents and provide insights useful for policymakers, urban planners, and law enforcement to enhance road safety initiatives and reduce accident-related casualties.
 
 Tools & Technologies: Power BI, Microsoft Excel, GIS (for spatial mapping), Data Cleaning & Visualization techniques.
+
+
+-----
+
